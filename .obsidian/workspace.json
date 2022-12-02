@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "8afc815520b2cdb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe6e2e196599acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7241198c41d3572a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/docu-tools/sync-makrdown-github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "280a05033968ac08",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee5afcfc92d72f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7eba7fc54e11199",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4294af9377025645",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b29e60ea544dcd2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c5e7dc4619d0cbd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8344ab5b205289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f600ec61c3a714",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/docu-tools/sync-makrdown-github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04794ae038eb0a42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/docu-tools/sync-makrdown-github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "956ae1c8269944ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2d4a6eaad51fdbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/docu-tools/sync-makrdown-github.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7241198c41d3572a",
+  "lastOpenFiles": [
+    "docs/docu-tools/sync-makrdown-github.md"
+  ]
+}

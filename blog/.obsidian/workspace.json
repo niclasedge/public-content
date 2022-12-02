@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "16a006003e624e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "8693ae986503d52f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9280f4e384cbb38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MKDocs Documentation Platform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddd96ac135b9976c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3e1bc6715a37a83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afcf7df59d234557",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de7cf333b0c52f88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bb1d03282743374",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3b16339ea84e278",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dfa77cbebfa5576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b66030bf6785f6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MKDocs Documentation Platform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f14bf334a6e4d7d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MKDocs Documentation Platform.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6280bb98f30750f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "225c323d64696945",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MKDocs Documentation Platform.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9280f4e384cbb38e",
+  "lastOpenFiles": [
+    "google-dorks.md",
+    "MKDocs Documentation Platform.md"
+  ]
+}
