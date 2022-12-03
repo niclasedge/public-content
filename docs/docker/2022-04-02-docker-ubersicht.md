@@ -1,6 +1,6 @@
 ---
 slug: docker-ubersicht
-title: Docker - Übersicht
+title: Getting Started
 
 tags: [übersicht]
 date: 2022-04-02
