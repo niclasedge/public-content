@@ -1,6 +1,6 @@
 ---
 slug: docker-update-container
-title: Docker - Update Container / Watchtower
+title: Auto Update Container mit Watchtower
 
 tags: [docker, service, docker compose]
 date: 2022-04-07
