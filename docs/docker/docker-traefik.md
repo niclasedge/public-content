@@ -1,5 +1,5 @@
 ---
-title: Docker Traefik -
+title: service - Traefik
 
 description: So nutze ich Traefik als reverse Proxy mit Docker Compose
 date: 2022-10-20T18:29:12.454Z
