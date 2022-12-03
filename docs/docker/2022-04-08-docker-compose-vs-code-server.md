@@ -1,6 +1,6 @@
 ---
 slug: docker-compose-vs-code-server
-title: Docker - VS Code Server
+title: service - VS Code Server
 authors: edge
 tags: [service, docker compose]
 date: 2022-04-08
