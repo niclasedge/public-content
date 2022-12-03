@@ -7,8 +7,32 @@ date: 2022-04-02
 series: 
   - Docker Guide
 ---
+## Docker Installieren
 
-## Docker: Übersicht
+### Raspberri Pi Raspian OS
+```shell
+# install script runterladen
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+# script laufen lassen
+sudo sh get-docker.sh
+
+# User zu docker gruppe hinzufügen
+sudo usermod -aG docker [user_name]
+```
+
+## Docker Compose Installieren
+
+```shell
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
+
+# Verify that Docker Compose is installed correctly by checking the version.
+docker compose version
+```
+
+
+## Über Docker
 
 ### Was ist Docker?
 
